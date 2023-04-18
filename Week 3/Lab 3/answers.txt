@@ -1,0 +1,17 @@
+sort1 uses: Bubble sort
+
+How do you know?: real    0m9.009s
+user    0m7.567s
+sys     0m0.181s
+
+sort2 uses: Merge sort
+
+How do you know?: real    0m3.803s
+user    0m3.052s
+sys     0m0.204s
+
+sort3 uses: Selection sort
+
+How do you know?: real    0m3.956s
+user    0m3.065s
+sys     0m0.183s
