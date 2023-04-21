@@ -84,7 +84,6 @@ void print_winner(void)
 {
     // TODO
     int votes = 0;
-    char stringArray[MAX][100];
     for (int i = 0; i < candidate_count; i++)
     {
         if (candidates[i].votes > votes)
